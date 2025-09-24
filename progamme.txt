@@ -3,3 +3,5 @@
 * modifier des fichiers
 * voir l'historique
 * ne pas avoir peur des merge
+* ajout d'utilisateur ?
+* supprimer des comits ?
