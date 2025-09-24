@@ -1,6 +1,7 @@
 # ce qu'il faut faire 
+
 * ajouter des fichiers
-* modifier des fichiers
+* ajouter d'autres personnes au fichier ? 
 * voir l'historique
 * ne pas avoir peur des merge
 * ajout d'utilisateur ?
